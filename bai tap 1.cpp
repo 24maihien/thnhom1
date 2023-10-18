@@ -6,5 +6,6 @@ int tbc (int a[],int n);
 int main ()
 { 
     int a[100],n;
-    
+
+
 }
